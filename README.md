@@ -51,7 +51,7 @@ Replace `<port>` with the desired port number on which the proxy server will lis
 5. **Caching (if enabled)**: The response from the target server is cached for future requests.
 6. **Response to Client**: The server sends the received response back to the client.
 
-![UML Diagram](UML.jpg)
+![UML Diagram](UML.JPG)
 
 ## Contributing
 Contributions are welcome! Please fork the repository and create a pull request with your changes. Ensure that your code follows the project's coding standards and includes appropriate tests.
