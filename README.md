@@ -1,7 +1,3 @@
-Here's a detailed README for the "Multithreaded Proxy Web Server" project:
-
----
-
 # Multithreaded Proxy Web Server
 
 ## Overview
